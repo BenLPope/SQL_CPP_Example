@@ -138,7 +138,7 @@ void connectToDatabase() {
 
 /*  Fixed username and password  */
     strcpy((char *)username.arr,"sp201255");
-    strcpy((char *)password.arr,"Bp99825!");
+    strcpy((char *)password.arr,"***");
     username.len = strlen((char *) username.arr);
     password.len = strlen((char *) password.arr);
 
